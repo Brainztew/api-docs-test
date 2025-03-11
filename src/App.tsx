@@ -6,7 +6,7 @@ function App() {
     <ApiReferenceReact
       configuration={{
         spec: {
-          url: 'https://api.api-fiddle.com/v1/public/resources/oas_api_3_1/dennis-isakssons-organization-7qe/cold-giraffe-15qf',
+          url: '/public/openapi.yaml',
         },
       }}
     />
